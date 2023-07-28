@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Rupesh+Thapa.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=FF00F8&background=FFFFFF00&width=435&lines=I+am+a+Mobile+App+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=FF00F8&background=FFFFFF00&width=435&lines=I+am+a+Web+App+Developer.)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Nepal 🇳🇵</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/4zeM.gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisu-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="bisu-tripathi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaparup&label=Profile%20views&color=0e75b6&style=flat" alt="thaparup" /> </p>
 
 - 🔭 I’m currently working on [Room Rental App](https://github.com/lgic-2018/Room_Rental.git)
 
