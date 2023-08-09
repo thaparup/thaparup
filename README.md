@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React and Nest Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bisu-tripathi](https://github.com/thaparup)
+- 👨‍💻 All of my projects are available at [https://github.com/thaparup](https://github.com/thaparup)
 
 - 💬 Ask me about **React and Nest Js**
 
