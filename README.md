@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React and Nest Js**
 
-- 📫 How to reach me **thaparup39650@gmail.com**
+- 📫 How to reach me **thaparup3965@gmail.com**
 
 - ⚡ Fun fact **Love Code**
 
